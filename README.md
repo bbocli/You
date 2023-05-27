@@ -8,6 +8,22 @@
 专业自由，是**基本人权**；
 当然了，讨论真理的言论自由也是**基本人权**之一。
 
+## 提交PR
+
+欢迎大家通过提交PR（Pull Request）的方式，补充自己的优的经历。可以匿名，但是格式最好包括高考分数，高考排名，高考地区，复习时间，复习方法，高考志愿等。感谢大家一起共筑全世界最大的中文优学文库。
+
+关于如何提交PR：在创建好自己的Github账号之后，选择本首页[右上方的Fork]，然后进入自己用户名下Fork好的首页，并在 Actions 页面启用 Workflows
+
+- Github Web 端：在合适的文件夹里选择新建文件，创建一个 `.md` 文件编写内容。
+  - 如果是上传文件，则请在对应目录点击 Add File 后点击 Upload Files ，等待文件上传完毕后点击 Commit。
+  - 提交好之后点击左下角 Commit 并等待 Actions 检查，请在检查通过后在自己的首页上点击 Contribute 后点击下方的 Open Pull Request
+
+- 本地：请先安装`npm`，后续操作[见文章](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)
+
+提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在 404 风险请添加[Archive备份](Archive备份.md)链接
+
+详细要求[见此](CodeOfConduct.md)
+
 ## 本站精华
 
 - [为何而优](为何而优.md)
